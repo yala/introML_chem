@@ -1,7 +1,7 @@
 # Intro to Machine Learning Labs
 
 ## Lab 1: Intro to ML Packages: SKLearn
-First, we'll walk through the [sentiment analysis tutorial](https://colab.research.google.com/github/yala/MLCodeLab/blob/master/lab1/sentiment_analysis_tutorial.ipynb) together, and cover how to build and tune models on SKLearn. Next, you'll apply what you learned, and work through the [news group excerise](https://colab.research.google.com/github/yala/MLCodeLab/blob/master/lab1/news_groups_exercise.ipynb), and [property prediction exercise]() yourself.
+First, we'll walk through the [sentiment analysis tutorial](https://colab.research.google.com/github/yala/introML_chem/blob/master/lab1/sentiment_analysis_tutorial.ipynb) together, and cover how to build and tune models on SKLearn. Next, you'll apply what you learned, and work through the [news group excerise](https://colab.research.google.com/github/yala/introML_chem/blob/master/lab1/news_groups_exercise.ipynb), and [property prediction exercise](https://colab.research.google.com/github/yala/introML_chem/blob/master/lab1/property_prediction_exercise.ipynb) yourself.
 
 We'll provide a sample solution for both exercises on Thursday morning so you have a chance to experiment.
 
