@@ -8,7 +8,7 @@ Sample solutions for both exercises are available in the [lab1](https://github.c
 ## Lab 2: Intro to Deep Learning Packages: PyTorch
 First, we'll walk through the [pytorch tutorial](https://colab.research.google.com/github/yala/introML_chem/blob/master/lab2/pytorch_tutorial.ipynb) together, and cover how to build and tune models on PyTorch. Next, you'll apply what you learned, and work through the [beer review excerise](https://colab.research.google.com/github/yala/introML_chem/blob/master/lab2/beer_review_exercise.ipynb), and [property prediction exercise](https://colab.research.google.com/github/yala/introML_chem/blob/master/lab2/property_prediction_exercise.ipynb) yourself.
 
-Sample solutions for both exercises are available in the [lab1](https://github.com/yala/introML_chem/tree/master/lab2) folder.
+Sample solutions for both exercises are available in the [lab2](https://github.com/yala/introML_chem/tree/master/lab2) folder.
 
 ## Lab 3: Intro to Advanced Architectures: CNNs and RNNs
 First, we'll walk through the [mnist tutorial](https://colab.research.google.com/github/yala/introML_chem/blob/master/lab3/mnist_tutorial.ipynb) and the [advanced sentiment analysis tutorial](https://colab.research.google.com/github/yala/introML_chem/blob/master/lab3/rnn_and_cnn_tutorial.ipynb). Next, you'll apply what you learned on the property [advanced prediction exercise](https://colab.research.google.com/github/yala/introML_chem/blob/master/lab3/property_prediction_exercise.ipynb).
