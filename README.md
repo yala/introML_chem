@@ -15,6 +15,8 @@ First, we'll walk through the [mnist tutorial](https://colab.research.google.com
 
 We'll provide a sample solution for both exercises right before the next class so you have a chance to experiment.
 
+## Lab 4: Intro to MPNNs
+In this [tutorial](https://colab.research.google.com/github/yala/introML_chem/blob/master/lab4/message_passing_neural_network_tutorial.ipynb), we'll walk you through building a message passing neural network to do molecular property prediction.
 
 
 ## Running the labs
